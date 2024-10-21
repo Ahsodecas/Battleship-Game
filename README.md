@@ -7,5 +7,6 @@ General view of the game:
 
 Main points:
 - The window on the left is the player's grid, the ships are placed randomly.
-- the window on the right is the computer's grid.
-- The statistics of damaged ships and a timer are displayed on a separate window.
+- The window on the right is the computer's grid.
+- The computer chooses the next cell to hit randomly.
+- The statistics for damaged ships and a timer are displayed in a separate window.
