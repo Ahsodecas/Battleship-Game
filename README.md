@@ -1,7 +1,5 @@
 # Battleship-Game
 
-A university project for the course "Programming in Graphical Environment".
-
 General view of the game:
 ![image](https://github.com/user-attachments/assets/f11ea156-f194-445a-a348-1540636f2926)
 
